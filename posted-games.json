@@ -1,6 +1,14 @@
 {
-  "epic": [],
-  "steam": [],
+  "epic": [
+    "231e8f6d250a453f9c44c0adf3a34656",
+    "871cc4ff18444059890a4d28653a62d5",
+    "0e44600a079e419abbb291ccf5af9ee7-upcoming"
+  ],
+  "steam": [
+    "steam-3716",
+    "steam-3740",
+    "steam-3730"
+  ],
   "gog": [],
-  "last_updated": "2026-08-08T00:00:00Z"
+  "last_updated": "2026-08-08T22:02:32.325127Z"
 }
