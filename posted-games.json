@@ -1,23 +1,26 @@
 {
   "epic": [
-    "a802acab90af4a07952a07a9fa677f2f",
-    "a802acab90af4a07952a07a9fa677f2f-upcoming",
-    "231e8f6d250a453f9c44c0adf3a34656",
-    "8f1fcf01e32e4fd4b2ae0a9737992760-upcoming",
     "b467b7d3570e44c0b84e59475f4a5636-upcoming",
+    "a802acab90af4a07952a07a9fa677f2f",
+    "231e8f6d250a453f9c44c0adf3a34656",
+    "b467b7d3570e44c0b84e59475f4a5636",
+    "8f1fcf01e32e4fd4b2ae0a9737992760-upcoming",
     "0e44600a079e419abbb291ccf5af9ee7-upcoming",
-    "0e44600a079e419abbb291ccf5af9ee7",
-    "8401414902e84f2cb9afa9142f051d32-upcoming",
     "871cc4ff18444059890a4d28653a62d5",
-    "b467b7d3570e44c0b84e59475f4a5636"
+    "8f1fcf01e32e4fd4b2ae0a9737992760",
+    "8401414902e84f2cb9afa9142f051d32-upcoming",
+    "a802acab90af4a07952a07a9fa677f2f-upcoming",
+    "8401414902e84f2cb9afa9142f051d32",
+    "b8cc76ce7d6645f0a282b843a072cc78-upcoming",
+    "0e44600a079e419abbb291ccf5af9ee7"
   ],
   "steam": [
+    "steam-3730",
     "steam-3756",
     "steam-3740",
-    "steam-3716",
-    "steam-3730",
-    "steam-3524"
+    "steam-3524",
+    "steam-3716"
   ],
   "gog": [],
-  "last_updated": "2026-08-25T10:38:12.444066Z"
+  "last_updated": "2026-08-27T20:14:27.042308Z"
 }
